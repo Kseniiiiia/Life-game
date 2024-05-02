@@ -1,0 +1,1 @@
+gol.exe --input game_initial.bmp --output ./images/ --max_iter 10 --dump_freq 1
